@@ -1,0 +1,50 @@
+.headerSpacing{
+    
+    font-size: 1.5em; 
+    margin: .5em 0; 
+    word-spacing: 5.0em;
+    display: flex;
+      justify-content: center;
+     
+    
+
+     
+
+    
+}
+.MainStuff{
+    
+        height:1500px;
+        width:1250px;
+        color: white;
+      background-color:#66a3ff;
+       
+      background-image: repeating-linear-gradient(transparent, transparent 50px, purple 50px, purple 53px, transparent 53px, transparent 63px, purple 63px, purple 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px),  
+        repeating-linear-gradient(270deg, transparent, transparent 50px, purple 50px, purple 53px, transparent 53px, transparent 63px, purple 63px, purple 66px, transparent 66px, transparent 116px, rgba(0,0,0,.5) 116px, rgba(0,0,0,.5) 166px, rgba(255,255,255,.2) 166px, rgba(255,255,255,.2) 169px, rgba(0,0,0,.5) 169px, rgba(0,0,0,.5) 179px, rgba(255,255,255,.2) 179px, rgba(255,255,255,.2) 182px, rgba(0,0,0,.5) 182px, rgba(0,0,0,.5) 232px, transparent 232px);
+      
+      
+      
+}
+.divSpace{
+    width: 300px;
+    padding: 25px;
+}
+
+  .headerSpacing2{
+    
+    
+    margin: .5em 0; 
+    word-spacing: 5.0em;
+    text-align: center;
+}
+
+a:link
+{
+    color:turquoise
+
+}
+
+a:visited
+{
+    color:red;
+}
